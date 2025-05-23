@@ -4,7 +4,7 @@
   "version": "0.0.2",
   "type": "module",
   "main": "index.js",
-  "homepage": "https://AnsarYesma.github.io/easysign",
+  "homepage": "https://AnsarYesma.github.io/EasySign",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
