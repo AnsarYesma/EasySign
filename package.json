@@ -23,6 +23,8 @@
     "@telegram-apps/sdk-solid": "^2.0.5",
     "@tonconnect/ui": "^2.0.5",
     "eruda": "^3.0.1",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^5.2.133",
     "solid-js": "^1.8.17"
   },
   "devDependencies": {
