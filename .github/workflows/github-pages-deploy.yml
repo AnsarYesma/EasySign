@@ -55,6 +55,12 @@ jobs:
         with:
           # Upload dist repository
           path: './dist'
+      
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          # Upload dist repository
+          path: './dist'
 
       - name: Deploy to GitHub Pages
         id: deployment
